@@ -140,7 +140,7 @@ Note that Docker doesn't care *how* dependencies are built - as long
 as they can be built by running a Unix command in a container.
 
 
-Getting started1212
+Getting started12121212
 ===============
 
 Docker can be installed either on your computer for building applications or
