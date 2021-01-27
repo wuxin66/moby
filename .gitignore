@@ -39,4 +39,4 @@ vendor/pkg/
 *.iml
 out
 gen
-!/aa.txt
+aa.txt
